@@ -35,6 +35,8 @@ ________________________________________________________________________________
 Desafio 3 - 
 Criando um Dashboard de Vendas do Xbox com Excel
 
-Link: 
+Link: https://1drv.ms/x/c/32ec05f4d106957d/EYLzp3dBlU5CmXqHsF8DYBcBVNWCYL5K4bFtE1CxzC4vsw?e=a2QB4M
 
 O objetivo deste desafio é criar um dashboard de vendas, com foco na organização e visualização de dados. O objetivo é transformar dados brutos em informações visuais claras e úteis, permitindo uma análise eficaz do desempenho de vendas e a tomada de decisões baseadas em dados.
+
+![Captura de tela 2025-06-29 231141](https://github.com/user-attachments/assets/1e852727-96d8-4d8e-abae-8ebceabd8f93)
