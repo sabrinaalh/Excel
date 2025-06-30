@@ -26,3 +26,15 @@ O objetivo é criar uma ferramenta no Excel que ajude a organizar e reunir infor
 ![Captura de tela 2025-06-29 221717](https://github.com/user-attachments/assets/1dd3b2d7-82ed-44e1-bd7c-5aa41eafcdd0)
 
 ![Captura de tela 2025-06-29 221717](https://github.com/user-attachments/assets/3a56c52f-dc14-4b09-874c-622bdaaa35af)
+
+
+
+
+_____________________________________________________________________________________________________________________________________________________________________________
+
+Desafio 3 - 
+Criando um Dashboard de Vendas do Xbox com Excel
+
+Link: 
+
+O objetivo deste desafio é criar um dashboard de vendas, com foco na organização e visualização de dados. O objetivo é transformar dados brutos em informações visuais claras e úteis, permitindo uma análise eficaz do desempenho de vendas e a tomada de decisões baseadas em dados.
