@@ -25,7 +25,7 @@ O objetivo é criar uma ferramenta no Excel que ajude a organizar e reunir infor
 
 ![Captura de tela 2025-06-29 221717](https://github.com/user-attachments/assets/1dd3b2d7-82ed-44e1-bd7c-5aa41eafcdd0)
 
-![Captura de tela 2025-06-29 221717](https://github.com/user-attachments/assets/3a56c52f-dc14-4b09-874c-622bdaaa35af)
+![Captura de tela 2025-06-29 221801](https://github.com/user-attachments/assets/95d953b4-99e1-4247-acd5-a3cece91cd1b)
 
 
 
